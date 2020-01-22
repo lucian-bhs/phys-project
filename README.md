@@ -11,3 +11,5 @@ The goal of these facilities is to measure "gravitational waves", distortions in
 
 **LHC**, or the Large Hadron Collider, is also a large-scale physics project but it aims to accomplish different goals. It actively fires particles in a vaccuum chamber at near the speed of light before smashing them together. This allows us to measure tons of data with the LHC's specialized detectors to learn more about physics.
 ![LHC](https://www.symmetrymagazine.org/sites/default/files/styles/2015_teaser/public/images/standard/LHC-s.jpg?itok=MRYuVCfy)
+
+This vaccuum tube is in a loop almost 17 miles long, and contains superconducting magnets along the length of the tunnel to accelerate the particles to incredible speeds.
