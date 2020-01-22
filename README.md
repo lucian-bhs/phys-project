@@ -7,9 +7,7 @@ These pages will go through how the science concepts we all learned in class app
 **LIGO**, or it's more confusing name "Laser Interferometer Gravitational-Wave Observatory", is a physics experiment and observatory with two measurement sites. One site is in Hanford, Washington while another is in Livingston, Louisiana. Both locations involve two 2 1/2 mile long vaccuum tubes forming an L shape, with the main facility where the two intersect.
 ![LIGO](https://www.ligo.caltech.edu/system/news_items/images/53/page/Virgo_aerial_view_01.jpg)
 
-The goal of these facilities is to measure "gravitational waves", distortions in space caused by massive masses like stars in distant galaxies. They can be measured by the equipment in the facility, which involves a lot of very complex scientific concepts.
+The goal of these facilities is to measure "gravitational waves", distortions in space caused by massive masses like stars in distant galaxies. They can be measured by the equipment in the facility, which involves a lot of very complex scientific concepts (that we won't exactly go into here).
 
-Remember that light waves have peaks and troughs, as such:
-![Light](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224709/CNX_Psych_05_02_Wave.jpg)
-
-And with that in mind, when two lasers converge at one point, their waves will interfere with each other based on their conflicting amplitudes (intensity/brightness). If the peaks of both lasers overlapped, nothing would happen since the amplitude is equal at said point. But, in LIGO's case, the lasers are fired in such a way that the peak of one laser and the troughs of another overlaps, _they cancel each other out_.
+**LHC**, or the Large Hadron Collider, is also a large-scale physics project but it aims to accomplish different goals. It actively fires particles in a vaccuum chamber at near the speed of light before smashing them together. This allows us to measure tons of data with the LHC's specialized detectors to learn more about physics.
+![LHC](https://www.symmetrymagazine.org/sites/default/files/styles/2015_teaser/public/images/standard/LHC-s.jpg?itok=MRYuVCfy)
