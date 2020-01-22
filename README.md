@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Real World, Large-Scale Experiments
 
-You can use the [editor on GitHub](https://github.com/lucian-bhs/phys-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+These pages will go through how the science concepts we all learned in class apply to real-world experiments being conducted by scientists right now! The two large ones that will be referenced here both have to do with physics - LIGO and the LHC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What Are Those?
 
-### Markdown
+**LIGO**, or it's more confusing name "Laser Interferometer Gravitational-Wave Observatory", is a physics experiment and observatory with two measurement sites. One site is in Hanford, Washington while another is in Livingston, Louisiana. Both locations involve two 2 1/2 mile long vaccuum tubes forming an L shape, with the main facility where the two intersect.
+![LIGO](https://www.ligo.caltech.edu/system/news_items/images/53/page/Virgo_aerial_view_01.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal of these facilities is to measure "gravitational waves", distortions in space caused by massive masses like stars in distant galaxies. They can be measured by the equipment in the facility, which involves a lot of very complex scientific concepts.
 
-```markdown
-Syntax highlighted code block
+Remember that light waves have peaks and troughs, as such:
+![Light](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/902/2015/02/23224709/CNX_Psych_05_02_Wave.jpg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucian-bhs/phys-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And with that in mind, when two lasers converge at one point, their waves will interfere with each other based on their conflicting amplitudes (intensity/brightness). If the peaks of both lasers overlapped, nothing would happen since the amplitude is equal at said point. But, in LIGO's case, the lasers are fired in such a way that the peak of one laser and the troughs of another overlaps, _they cancel each other out_.
