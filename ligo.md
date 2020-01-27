@@ -18,7 +18,7 @@ The reason there are two facilities spaced such a distance apart is to be able t
 ![Sites](https://www.ligo.caltech.edu/assets/what_slide-ce3596915df0767051e5d7d29c27958a.jpg)
 
 
-*But how do they detect these "gravitational waves"?
+*But how do they detect these "gravitational waves"?*
 
 A gravitational wave is a complicated concept so the basic idea to understand from it is that it's a huge wave that exists as a disturbance in space, travelling at the speed of light. When these gravitational waves pass through the Earth, they create a disturbance in everything they pass through that's so tiny it's unnoticable by anything - except the detectors. The distance of the lasers apart and the stabilization techniques they use allow them to be incredibly sensitive, which is what gives these facilities this unique job. The wave causes  The measurement of gravitational waves allows us to get a better idea of how black holes work and the energy released by supernovae (dying, exploding stars).
 
