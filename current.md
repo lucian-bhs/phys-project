@@ -18,7 +18,10 @@ Voltage is the potential difference, or the actual energy in the circuit whereas
 Ohm's law can be used to calculate any value in this system as long as you already know 2 others.
 
 Current = Voltage / Resistance, or I=V/R
+
 Voltage = Current * Resistance, or V=IR
+
 Resistance = Voltage / Current, or R=V/I
+
 
 * I couldn't think of a good phenomenon for this so I used a very specific example from an experiment, hopefully that works!
