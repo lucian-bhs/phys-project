@@ -1,5 +1,3 @@
-## Real World, Large-Scale Experiments
-
 These pages will go through how the science concepts we all learned in class apply to real-world experiments being conducted by scientists right now!
 
 Read the general overview of the experiments below, and then use the links above to navigate. For general, straightforward concepts (phenomenon, mechanism, mechanistic model) click on *Concepts*.
