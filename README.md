@@ -9,7 +9,7 @@ These pages will go through how the science concepts we all learned in class app
 
 LIGO's goal is to measure "gravitational waves", distortions in space caused by massive masses like stars in distant galaxies. They can be measured by the equipment in the facility, which involves a lot of very complex scientific concepts (that we won't exactly go into here).
 
-**LHC**, or the Large Hadron Collider, is also a large-scale physics project but it aims to accomplish different goals. It actively fires particles in a vaccuum chamber at near the speed of light before smashing them together. This allows them to measure tons of data with the LHC's specialized detectors to learn more about physics.
+**LHC**, or the Large Hadron Collider, is also a large-scale physics project but it aims to accomplish different goals. It fires particles in a vaccuum chamber at near the speed of light before smashing them together, causing a phenomenon in which a new particle is created as a result of the impact. This allows them to measure tons of data with the LHC's specialized detectors to learn more about physics.
 ![LHC](https://www.symmetrymagazine.org/sites/default/files/styles/2015_teaser/public/images/standard/LHC-s.jpg?itok=MRYuVCfy)
 
 This vaccuum tube is in a loop almost 17 miles long, and contains superconducting magnets along the length of the tunnel to accelerate the particles to incredible speeds.
