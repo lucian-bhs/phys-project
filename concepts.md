@@ -1,5 +1,3 @@
-# Scientific Concepts
-
 ### [Sound Waves](https://lucian-bhs.github.io/phys-project/sound)
 
 ### [Light Waves](https://lucian-bhs.github.io/phys-project/light)
