@@ -6,8 +6,8 @@ What I found out is that, albeit way more complicated and in-depth than we've le
 
 **Research Sources:**
 
-https://home.cern/science/accelerators/large-hadron-collider and sub-pages - For information on the LHC.
+[https://home.cern/science/accelerators/large-hadron-collider](https://home.cern/science/accelerators/large-hadron-collider) and sub-pages - For information on the LHC.
 
-https://www.ligo.caltech.edu/page/facilities - For information on LIGO.
+[https://www.ligo.caltech.edu/page/facilities](https://www.ligo.caltech.edu/page/facilities) - For information on LIGO.
 
 In-class notes, models, and schoology resources - Pretty much everything else.
