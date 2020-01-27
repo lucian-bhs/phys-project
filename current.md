@@ -24,4 +24,4 @@ Voltage = Current * Resistance, or V=IR
 Resistance = Voltage / Current, or R=V/I
 
 
-* I couldn't think of a good phenomenon for this so I used a very specific example from an experiment, hopefully that works!
+* *Note: I couldn't think of a good phenomenon for this so I used a very specific example from an experiment, hopefully that works!*
