@@ -15,3 +15,5 @@ Light waves travel from a source of the emission to the area around it in the fo
 Light waves are a *transverse* wave that measure amplitude in peaks and troughs. In a light wave, wavelength will determine the color of the light and the amplitude will determine brightness.
 
 ![image](http://3.bp.blogspot.com/-HN9nRoE4YLM/VFfq1Q5qs6I/AAAAAAAAADs/v_TfSWyRWI4/s1600/waves.jpg)
+
+A *peak* or *crest* is the highest point in the amplitude, whereas a *trough* or *valley* is the lowest point.
