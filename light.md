@@ -1,5 +1,7 @@
 # Light Waves
 
+[< Back](https://lucian-bhs.github.io/phys-project/concepts)
+
 ### Phenomenon
 
 Light illuminates the area around the source and allows us to see things.
